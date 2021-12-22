@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackLayoutTutorial.Android", "StackLayoutTutorial\StackLayoutTutorial.Android\StackLayoutTutorial.Android.csproj", "{F89E4624-6335-4D93-A962-67892856DC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackLayoutTutorial", "StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial.csproj", "{8B207BB6-4654-4D87-A7FF-946F34A42A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89E4624-6335-4D93-A962-67892856DC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89E4624-6335-4D93-A962-67892856DC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89E4624-6335-4D93-A962-67892856DC9F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F89E4624-6335-4D93-A962-67892856DC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89E4624-6335-4D93-A962-67892856DC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89E4624-6335-4D93-A962-67892856DC9F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8B207BB6-4654-4D87-A7FF-946F34A42A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B207BB6-4654-4D87-A7FF-946F34A42A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B207BB6-4654-4D87-A7FF-946F34A42A9D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8B207BB6-4654-4D87-A7FF-946F34A42A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B207BB6-4654-4D87-A7FF-946F34A42A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B207BB6-4654-4D87-A7FF-946F34A42A9D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94BD18E6-A979-45BE-BD69-72EF8F51806C}
+	EndGlobalSection
+EndGlobal
